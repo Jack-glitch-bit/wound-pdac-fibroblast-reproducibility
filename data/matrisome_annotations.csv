@@ -1,0 +1,327 @@
+gene,division
+ACTA2,Non-matrisome
+ACTB,Non-matrisome
+ACTG1,Non-matrisome
+ACTN1,Non-matrisome
+ACTR3,Non-matrisome
+ADAM12,Matrisome-associated
+ADAMTS12,Matrisome-associated
+ADAMTS2,Matrisome-associated
+AEBP1,Core matrisome
+AK1,Non-matrisome
+ANGPTL2,Matrisome-associated
+ANKH,Non-matrisome
+ANTXR1,Non-matrisome
+ANXA2,Matrisome-associated
+AP2M1,Non-matrisome
+ARF4,Non-matrisome
+ARHGAP1,Non-matrisome
+ARHGAP28,Non-matrisome
+ARL4C,Non-matrisome
+ARPC2,Non-matrisome
+ARPC3,Non-matrisome
+ASPN,Core matrisome
+ATOX1,Non-matrisome
+ATP5F1E,Non-matrisome
+BABAM2,Non-matrisome
+BGN,Core matrisome
+BMP1,Matrisome-associated
+C1QTNF3,Matrisome-associated
+C1QTNF6,Matrisome-associated
+C1orf122,Non-matrisome
+C9orf16,Non-matrisome
+CADM1,Non-matrisome
+CALD1,Non-matrisome
+CALM2,Non-matrisome
+CALR,Non-matrisome
+CALU,Non-matrisome
+CAP1,Non-matrisome
+CAPZB,Non-matrisome
+CCN4,Core matrisome
+CD55,Non-matrisome
+CD63,Non-matrisome
+CD9,Non-matrisome
+CD99,Non-matrisome
+CDH11,Non-matrisome
+CERCAM,Non-matrisome
+CFL1,Non-matrisome
+CHN1,Non-matrisome
+CHPF,Non-matrisome
+CIB1,Non-matrisome
+CKAP4,Non-matrisome
+CLIC4,Non-matrisome
+CNN2,Non-matrisome
+COL10A1,Core matrisome
+COL11A1,Core matrisome
+COL12A1,Core matrisome
+COL14A1,Core matrisome
+COL16A1,Core matrisome
+COL1A1,Core matrisome
+COL1A2,Core matrisome
+COL3A1,Core matrisome
+COL5A1,Core matrisome
+COL5A2,Core matrisome
+COL6A1,Core matrisome
+COL6A3,Core matrisome
+COL8A1,Core matrisome
+COL8A2,Core matrisome
+COPE,Non-matrisome
+CPXM1,Non-matrisome
+CRABP2,Non-matrisome
+CREB3L1,Non-matrisome
+CSRP2,Non-matrisome
+CTHRC1,Core matrisome
+CTSA,Matrisome-associated
+CTSB,Matrisome-associated
+CTSK,Matrisome-associated
+CTSZ,Matrisome-associated
+CYP26A1,Non-matrisome
+DAD1,Non-matrisome
+DIO2,Non-matrisome
+DNM3OS,Non-matrisome
+DPT,Core matrisome
+DPYSL3,Non-matrisome
+DSG2,Non-matrisome
+DSTN,Non-matrisome
+DYNLT1,Non-matrisome
+EDIL3,Core matrisome
+EDNRA,Non-matrisome
+EFEMP2,Core matrisome
+EIF4E2,Non-matrisome
+ENAH,Non-matrisome
+ERLEC1,Non-matrisome
+F13A1,Matrisome-associated
+FAM114A1,Non-matrisome
+FAM229B,Non-matrisome
+FAP,Non-matrisome
+FBN1,Core matrisome
+FBXO32,Non-matrisome
+FIBIN,Non-matrisome
+FIBP,Non-matrisome
+FIS1,Non-matrisome
+FKBP10,Non-matrisome
+FKBP11,Non-matrisome
+FKBP14,Non-matrisome
+FKBP7,Non-matrisome
+FLNA,Non-matrisome
+FN1,Core matrisome
+FNBP1L,Non-matrisome
+FNDC1,Core matrisome
+FRMD6,Non-matrisome
+FSCN1,Non-matrisome
+FTL,Non-matrisome
+FZD1,Non-matrisome
+GABARAP,Non-matrisome
+GALNT1,Non-matrisome
+GALNT5,Non-matrisome
+GJA1,Non-matrisome
+GJB2,Non-matrisome
+GLT8D2,Non-matrisome
+GOLM1,Non-matrisome
+GOPC,Non-matrisome
+GPX7,Non-matrisome
+GPX8,Non-matrisome
+GREM1,Matrisome-associated
+GRN,Non-matrisome
+GSTP1,Non-matrisome
+GXYLT2,Non-matrisome
+HCFC1R1,Non-matrisome
+HDLBP,Non-matrisome
+HLA-B,Non-matrisome
+HLA-C,Non-matrisome
+HMCN1,Core matrisome
+HSD17B6,Non-matrisome
+HSP90B1,Non-matrisome
+HTRA1,Matrisome-associated
+ID3,Non-matrisome
+IDH2,Non-matrisome
+IFI27,Non-matrisome
+IFT20,Non-matrisome
+IGFBP3,Core matrisome
+IGFL2,Non-matrisome
+IKBIP,Non-matrisome
+INHBA,Matrisome-associated
+ISLR,Non-matrisome
+ISOC2,Non-matrisome
+ITGA11,Non-matrisome
+ITGB1,Non-matrisome
+ITGB5,Non-matrisome
+JTB,Non-matrisome
+KDELR1,Non-matrisome
+KDELR2,Non-matrisome
+KDELR3,Non-matrisome
+KIAA1217,Non-matrisome
+KIF26B,Non-matrisome
+KIFAP3,Non-matrisome
+LGALS1,Matrisome-associated
+LGMN,Non-matrisome
+LGR4,Non-matrisome
+LINC02544,Non-matrisome
+LMAN1,Matrisome-associated
+LMO7,Non-matrisome
+LOX,Matrisome-associated
+LOXL1,Matrisome-associated
+LOXL2,Matrisome-associated
+LPP,Non-matrisome
+LRRC15,Non-matrisome
+LRRC17,Non-matrisome
+LRRN1,Non-matrisome
+LUM,Core matrisome
+MAGED1,Non-matrisome
+MAGED2,Non-matrisome
+MARCKS,Non-matrisome
+MATN3,Core matrisome
+MDK,Matrisome-associated
+MED8,Non-matrisome
+MFAP2,Core matrisome
+MFAP5,Core matrisome
+MGST3,Non-matrisome
+MICAL2,Non-matrisome
+MICOS10,Non-matrisome
+MICU1,Non-matrisome
+MMP11,Matrisome-associated
+MMP14,Matrisome-associated
+MORF4L1,Non-matrisome
+MRC2,Non-matrisome
+MRPS6,Non-matrisome
+MXRA5,Core matrisome
+MYDGF,Non-matrisome
+MYH10,Non-matrisome
+MYH9,Non-matrisome
+MYL12A,Non-matrisome
+MYL6,Non-matrisome
+MYL9,Non-matrisome
+MYOF,Non-matrisome
+NAGK,Non-matrisome
+NBL1,Non-matrisome
+NDUFA12,Non-matrisome
+NDUFA13,Non-matrisome
+NDUFA4,Non-matrisome
+NDUFC2,Non-matrisome
+NME2,Non-matrisome
+NOX4,Non-matrisome
+NREP,Non-matrisome
+NRG1,Matrisome-associated
+NRP2,Non-matrisome
+NT5DC2,Non-matrisome
+NTM,Non-matrisome
+NUAK1,Non-matrisome
+NUCB2,Non-matrisome
+NXN,Non-matrisome
+OLFML2B,Non-matrisome
+OLFML3,Non-matrisome
+OST4,Non-matrisome
+OSTC,Non-matrisome
+P3H1,Matrisome-associated
+P3H3,Matrisome-associated
+P3H4,Non-matrisome
+P4HA2,Matrisome-associated
+P4HB,Non-matrisome
+PALLD,Non-matrisome
+PCDH7,Non-matrisome
+PCOLCE,Core matrisome
+PDGFC,Matrisome-associated
+PDIA5,Non-matrisome
+PDLIM2,Non-matrisome
+PDLIM5,Non-matrisome
+PDLIM7,Non-matrisome
+PHPT1,Non-matrisome
+PIEZO2,Non-matrisome
+PKM,Non-matrisome
+PLAU,Matrisome-associated
+PLEC,Non-matrisome
+PLOD1,Matrisome-associated
+PLOD2,Matrisome-associated
+PLPP4,Non-matrisome
+PLS3,Non-matrisome
+PLXNC1,Matrisome-associated
+PODNL1,Core matrisome
+POSTN,Core matrisome
+PPDPF,Non-matrisome
+PPFIBP1,Non-matrisome
+PPIB,Non-matrisome
+PPIC,Non-matrisome
+PRDX4,Non-matrisome
+PRDX5,Non-matrisome
+PRRX1,Non-matrisome
+PRSS23,Non-matrisome
+PTK7,Non-matrisome
+PTTG1IP,Non-matrisome
+PXDN,Core matrisome
+PYCR1,Non-matrisome
+RAB2A,Non-matrisome
+RAB31,Non-matrisome
+RABAC1,Non-matrisome
+RAI14,Non-matrisome
+RALA,Non-matrisome
+RARRES2,Non-matrisome
+RASGRF2,Non-matrisome
+RBM3,Non-matrisome
+RCN3,Non-matrisome
+RHOA,Non-matrisome
+RRBP1,Non-matrisome
+RUNX2,Non-matrisome
+S100A11,Matrisome-associated
+S100A16,Matrisome-associated
+SCUBE3,Matrisome-associated
+SDC1,Matrisome-associated
+SDC2,Matrisome-associated
+SEC23A,Non-matrisome
+SEC31A,Non-matrisome
+SEC61B,Non-matrisome
+SEC61G,Non-matrisome
+SELENOM,Non-matrisome
+SEPTIN11,Non-matrisome
+SERF2,Non-matrisome
+SERPINH1,Matrisome-associated
+SEZ6L2,Non-matrisome
+SLC44A1,Non-matrisome
+SMYD3,Non-matrisome
+SPARC,Core matrisome
+SPATS2L,Non-matrisome
+SPON2,Core matrisome
+SSR2,Non-matrisome
+SSR3,Non-matrisome
+SSR4,Non-matrisome
+ST6GAL2,Non-matrisome
+STMP1,Non-matrisome
+SUGCT,Non-matrisome
+SULF1,Matrisome-associated
+SULF2,Matrisome-associated
+SYNDIG1,Non-matrisome
+TAGLN,Non-matrisome
+TAX1BP3,Non-matrisome
+TGFB1I1,Non-matrisome
+THBS2,Core matrisome
+THY1,Non-matrisome
+TIMP3,Matrisome-associated
+TMED3,Non-matrisome
+TMED9,Non-matrisome
+TMEM208,Non-matrisome
+TMEM45A,Non-matrisome
+TMSB10,Non-matrisome
+TNFRSF9,Non-matrisome
+TPM1,Non-matrisome
+TPM2,Non-matrisome
+TPM4,Non-matrisome
+TPST2,Non-matrisome
+TRAPPC1,Non-matrisome
+TRIM59,Non-matrisome
+TSPAN13,Non-matrisome
+TSPO,Non-matrisome
+TTC3,Non-matrisome
+TUBA1A,Non-matrisome
+TUBB,Non-matrisome
+UNC5B,Non-matrisome
+UQCR10,Non-matrisome
+UQCR11,Non-matrisome
+VCAN,Core matrisome
+VGLL4,Non-matrisome
+VKORC1,Non-matrisome
+VSNL1,Non-matrisome
+WNT2,Matrisome-associated
+YIF1A,Non-matrisome
+YIPF3,Non-matrisome
+YIPF5,Non-matrisome
+ZNF469,Non-matrisome
+ZNHIT1,Non-matrisome
